@@ -4,7 +4,7 @@ A Python script to collect device information (hostname, serial number, location
 
 ## Features
 
-- Supports multiple vendors (B4TECH (B4COM 21XX), B4COM (41XX), Cisco (Nexus 9000 series), Huawei (CE16808, CE6885, CE6820)
+- Supports multiple vendors: B4TECH (B4COM 21XX), B4COM (B4COM 41XX), Cisco (Nexus 9000 series), Huawei (CE16808, CE6885, CE6820)
 - Stores raw output and structured Excel report
 - Secure credential handling via environment variables
 - Easy to extend for new device types
