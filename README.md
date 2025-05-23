@@ -11,7 +11,7 @@ A Python script to collect device information (hostname, serial number, location
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 2. Install dependencies:
    pip install -r requirements.txt
 3. Set username and password in .env
